@@ -13,15 +13,6 @@
 
 ---
 
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sahana-GB&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahana-GB&layout=compact&theme=tokyonight" height="170" />
-</p>
-
----
-
 ### 📌 Featured Projects
 
 - 🌪️ **[Cyclone Detection & Classification AI Dashboard (SIH)](https://github.com/kavya1210v/Beyond_Just_Prompts_SIH)**
