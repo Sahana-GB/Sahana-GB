@@ -2,6 +2,11 @@
 <p align="center">
   <em>Software Developer | Open Source Enthusiast</em>
 </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sahana-g-bhagwat-752a563b4">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
@@ -9,7 +14,7 @@
 - 🔭 **Currently exploring a lot of core CSE fields.**
 - 🛠️ **Tech Stack:** C, C++, Python, Streamlit, Verilog , Aurdino, Data Structures & Algorithms etc.
 - 🏆 **Focus:** Competitive Programming  & Dynamic Web Applications
-- 📫 **How to reach me:** [LinkedIn]([https://www.linkedin.com/in/sahana-g-bhagwat-752a563b4?utm_source=share_via&utm_content=profile&utm_medium=member_android]) 
+- 📫 **Connect with me:** [LinkedIn Profile](https://www.linkedin.com/in/sahana-g-bhagwat-752a563b4)
 
 ---
 
