@@ -6,23 +6,13 @@
 ---
 
 ### 💫 About Me
-- 🔭 **Currently working on:** Exciting software development & ML projects
-- 🛠️ **Tech Stack:** C, C++, Python, Streamlit, Verilog,Aurdino, Data Structures & Algorithms
+- 🔭 **Currently exploring a lot of core CSE fields.**
+- 🛠️ **Tech Stack:** C, C++, Python, Streamlit, Verilog , Aurdino, Data Structures & Algorithms etc.
 - 🏆 **Focus:** Competitive Programming  & Dynamic Web Applications
-- 📫 **How to reach me:** [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/sahana-g-bhagwat-752a563b4?utm_source=share_via&utm_content=profile&utm_medium=member_android)) | [Resume](https://your-portfolio.com)
+- 📫 **How to reach me:** [LinkedIn]([https://www.linkedin.com/in/sahana-g-bhagwat-752a563b4?utm_source=share_via&utm_content=profile&utm_medium=member_android]) 
 
 ---
 
-### 🛠️ Languages & Tools
-<p left>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -50,12 +40,9 @@
   A dynamic route optimization and traffic adjustment application with custom user interface styling[cite: 1, 3].
   *Tech Stack:* `Python`, `Streamlit`
 
-  ### 💼 Experience
-  **[certificate].(file:///C:/Users/bhagw/Downloads/Internship%20Completion%20Certificate%20%E2%80%94%20Ms.%20Sahana%20Gopalkrishna%20Bhagwat.pdf)**
+ ### 💼 Experience
 
-- 🎓 **Research Intern | IIT Dharwad** *(May 2026 – June 2026)*
-  - Worked on the **AI for Education Project** for the Karnataka AI-Assisted Learning Platform.
-  - Developed an OCR-to-verification workflow using the **Sarvam Vision API** and **Claude Code** to digitize government question banks in Kannada.
-  - Completed verified Kannada-medium educational datasets for Classes 9 & 10 (Science, Social Science, Math) and PU Classes 1 & 2 (Computer Science.
-
----
+- 🎓 **Research Intern | IIT Dharwad** *(May 2026 – June 2026)* [[📄 View Certificate](./IIT_Dharwad_Internship_Certificate.pdf)][cite: 6]
+  - Worked on the **AI for Education Project** for the Karnataka AI-Assisted Learning Platform[cite: 6].
+  - Built an OCR-to-verification workflow using the **Sarvam Vision API** and **Claude Code** to digitize government question banks in Kannada[cite: 6].
+  - Completed verified Kannada-medium educational datasets for Classes 9 & 10 (Science, Social Science, Math) and PU Classes 1 & 2 (Computer Science)[cite: 6].
