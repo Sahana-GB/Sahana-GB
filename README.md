@@ -49,3 +49,12 @@
 - 🚗 **[PathMatrix](https://github.com/Sahana-GB)**
   A dynamic route optimization and traffic adjustment application with custom user interface styling[cite: 1, 3].
   *Tech Stack:* `Python`, `Streamlit`
+
+  ### 💼 Experience
+
+- 🎓 **Research Intern | IIT Dharwad** *(May 2026 – June 2026)*[cite: 6]
+  - Worked on the **AI for Education Project** for the Karnataka AI-Assisted Learning Platform[cite: 6].
+  - Developed an OCR-to-verification workflow using the **Sarvam Vision API** and **Claude Code** to digitize government question banks in Kannada[cite: 6].
+  - Completed verified Kannada-medium educational datasets for Classes 9 & 10 (Science, Social Science, Math) and PU Classes 1 & 2 (Computer Science)[cite: 6].
+
+---
