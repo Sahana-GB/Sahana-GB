@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Sahana</h1>
 <p align="center">
-  <em>Software Developer | Open Source Enthusiast</em>
+  <em>CS student | Tech & AI Enthusiast</em>
 </p>
 
 ---
