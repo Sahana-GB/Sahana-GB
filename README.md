@@ -27,7 +27,7 @@
   A 2-DoF hemispherical scanning system using **ESP32-CAM**, **Arduino**, and **OpenCV** to scan upper hemispheres, stream real-time video, and detect/count static targets using spatial checks.
   *Tech Stack:* `Python`, `C++`, `OpenCV`, `NumPy`, `PySerial`, `Arduino IDE`[cite: 5]
 
-- 🚗 **[PathMatrix](https://github.com/Sahana-GB)**
+- 🚗 **[PathMatrix](https://github.com/Sahana-GB/soi_2026)**
   A dynamic route optimization and traffic adjustment application with custom user interface styling[cite: 1, 3].
   *Tech Stack:* `Python`, `Streamlit`
 
