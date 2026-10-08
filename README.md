@@ -51,10 +51,11 @@
   *Tech Stack:* `Python`, `Streamlit`
 
   ### 💼 Experience
+  **[certificate].(file:///C:/Users/bhagw/Downloads/Internship%20Completion%20Certificate%20%E2%80%94%20Ms.%20Sahana%20Gopalkrishna%20Bhagwat.pdf)**
 
-- 🎓 **Research Intern | IIT Dharwad** *(May 2026 – June 2026)*[cite: 6]
-  - Worked on the **AI for Education Project** for the Karnataka AI-Assisted Learning Platform[cite: 6].
-  - Developed an OCR-to-verification workflow using the **Sarvam Vision API** and **Claude Code** to digitize government question banks in Kannada[cite: 6].
-  - Completed verified Kannada-medium educational datasets for Classes 9 & 10 (Science, Social Science, Math) and PU Classes 1 & 2 (Computer Science)[cite: 6].
+- 🎓 **Research Intern | IIT Dharwad** *(May 2026 – June 2026)*
+  - Worked on the **AI for Education Project** for the Karnataka AI-Assisted Learning Platform.
+  - Developed an OCR-to-verification workflow using the **Sarvam Vision API** and **Claude Code** to digitize government question banks in Kannada.
+  - Completed verified Kannada-medium educational datasets for Classes 9 & 10 (Science, Social Science, Math) and PU Classes 1 & 2 (Computer Science.
 
 ---
