@@ -29,6 +29,11 @@
 - 🚗 **[PathMatrix](https://github.com/Sahana-GB/soi_2026)**
   A dynamic route optimization and traffic adjustment application with custom user interface styling[cite: 1, 3].
   *Tech Stack:* `Python`, `Streamlit`
+  ## 🚧 Ongoing Project
+
+- 🤖 **[AURORA](https://github.com/N3X4R6H/AURORA)** A compute-efficient coding AI being built by the Hardly Humans AI Club, IIT Dharwad. The goal is the best coding capability per unit of compute, through a small decoder-only Transformer trained from scratch (AURORA-Scratch) and a fine-tuned small open model (AURORA-Adapt).
+
+---
 
  ### 💼 Experience
 
