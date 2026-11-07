@@ -1,14 +1,13 @@
 <h1 align="center">Hi , I'm Sahana</h1>
 <p align="center">
-  <em>CS student | Tech & AI Enthusiast</em>
+  <em>CS student | Tech & AI-ML Enthusiast</em>
 </p>
 
 ---
 
 ### 💫 About Me
 - 🔭 **Currently exploring a lot of core CSE fields.**
-- 🛠️ **Tech Stack:** C, C++, Python, Streamlit, Verilog , Aurdino, Data Structures & Algorithms etc.
-- 🏆 **Focus:** Competitive Programming  & Dynamic Web Applications
+- 🛠️ **Tech Stack:** C, C++, Python,Java, Streamlit, Verilog , Aurdino, Data Structures & Algorithms etc.
 - 📫 **Connect with me:** [LinkedIn Profile](https://www.linkedin.com/in/sahana-g-bhagwat-752a563b4)
 
 ---
